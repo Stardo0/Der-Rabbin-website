@@ -3,15 +3,11 @@
 Willkommen zur Community-Website von "Der Rabbin"! Diese Plattform ist von der Community für die Community erstellt und wird kontinuierlich durch eure Beiträge verbessert und erweitert. Wir freuen uns auf eure Ideen und Vorschläge!
 
 ## Inhalt
-- [Einführung](#einführung)
 - [Features](#features)
 - [Installation](#installation)
 - [Beitragen](#beitragen)
 - [Code of Conduct](#code-of-conduct)
 - [Lizenz](#lizenz)
-
-## Einführung
-Diese Website dient als zentrale Anlaufstelle für alle Fans von "Der Rabbin". Hier findest du Informationen zu kommenden Streams, ein Archiv vergangener Streams, Community-Foren und vieles mehr. Da dies ein Open-Source-Projekt ist, sind alle herzlich eingeladen, zur Verbesserung der Website beizutragen.
 
 ## Features
 - **Stream-Planer**: Übersicht über kommende Streams und Events.
