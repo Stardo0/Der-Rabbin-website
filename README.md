@@ -6,8 +6,6 @@ Willkommen zur Community-Website von "Der Rabbin"! Diese Plattform ist von der C
 - [Features](#features)
 - [Installation](#installation)
 - [Beitragen](#beitragen)
-- [Code of Conduct](#code-of-conduct)
-- [Lizenz](#lizenz)
 
 ## Kommende Features (wen jemand lust hat sie zu coden)
 - **Stream-Archiv**: Zugriff auf vergangene Streams.
@@ -41,12 +39,6 @@ Wir freuen uns über jeden Beitrag! Hier ist, wie du loslegen kannst:
 - Stelle sicher, dass dein Code gut dokumentiert ist.
 - Achte auf saubere Commit-Historie.
 - Beschreibe deine Änderungen ausführlich im Pull Request.
-
-## Code of Conduct
-Unser Ziel ist es, eine freundliche und einladende Community zu schaffen. Bitte lies dir unseren [Code of Conduct](CODE_OF_CONDUCT.md) durch, bevor du Beiträge leistest.
-
-## Lizenz
-Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen findest du in der [LICENSE](LICENSE) Datei.
 
 ---
 
