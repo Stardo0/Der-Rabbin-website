@@ -9,33 +9,14 @@ Willkommen zur Community-Website von "Der Rabbin"! Diese Plattform ist von der C
 - [Code of Conduct](#code-of-conduct)
 - [Lizenz](#lizenz)
 
-## Features
-- **Stream-Planer**: Übersicht über kommende Streams und Events.
+## Kommende Features (wen jemand lust hat sie zu coden)
 - **Stream-Archiv**: Zugriff auf vergangene Streams.
-- **Community-Foren**: Diskutiere mit anderen Fans.
 - **Custom Content**: Mitglieder können eigene Inhalte hinzufügen.
 
 ## Installation
-Um die Website lokal auf deinem Rechner zum Laufen zu bringen, folge diesen Schritten:
 
-1. **Repository klonen**:
-    ```sh
-    git clone https://github.com/DerRabbin/community-website.git
-    ```
-2. **In das Projektverzeichnis wechseln**:
-    ```sh
-    cd community-website
-    ```
-3. **Abhängigkeiten installieren**:
-    ```sh
-    npm install
-    ```
-4. **Entwicklungsserver starten**:
-    ```sh
-    npm start
-    ```
-5. **Website im Browser öffnen**:
-    Die Website ist nun unter `http://localhost:3000` erreichbar.
+Gehe auf : https://rabbin.online/ 
+Wen das nicht geht auf : https://der-rabbin.web.app/
 
 ## Beitragen
 Wir freuen uns über jeden Beitrag! Hier ist, wie du loslegen kannst:
