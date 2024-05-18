@@ -1,81 +1,77 @@
-# Community-Website
+# Der Rabbin Community Website
 
-Willkommen zu unserer Community-Website! Diese Plattform ermöglicht es jedem, durch Beiträge eigenen Code hinzuzufügen und die Website gemeinsam anzupassen und zu verbessern.
+Willkommen zur Community-Website von "Der Rabbin"! Diese Plattform ist von der Community für die Community erstellt und wird kontinuierlich durch eure Beiträge verbessert und erweitert. Wir freuen uns auf eure Ideen und Vorschläge!
 
 ## Inhalt
-
-- [Über das Projekt](#über-das-projekt)
+- [Einführung](#einführung)
 - [Features](#features)
 - [Installation](#installation)
 - [Beitragen](#beitragen)
+- [Code of Conduct](#code-of-conduct)
 - [Lizenz](#lizenz)
 
-## Über das Projekt
-
-Diese Website wurde erstellt, um eine kollaborative Plattform zu bieten, auf der Entwickler ihre Fähigkeiten teilen und gemeinsam an einem Projekt arbeiten können. Jeder ist eingeladen, Code beizutragen, Fehler zu melden oder neue Features vorzuschlagen.
+## Einführung
+Diese Website dient als zentrale Anlaufstelle für alle Fans von "Der Rabbin". Hier findest du Informationen zu kommenden Streams, ein Archiv vergangener Streams, Community-Foren und vieles mehr. Da dies ein Open-Source-Projekt ist, sind alle herzlich eingeladen, zur Verbesserung der Website beizutragen.
 
 ## Features
-
-- **Kollaborative Entwicklung**: Jeder kann Code hinzufügen und die Website verbessern.
-- **Open Source**: Der gesamte Code ist öffentlich zugänglich und kann von jedem verwendet werden.
-- **Vielfältige Beiträge**: Von kleinen Bugfixes bis hin zu großen neuen Features, jeder Beitrag ist willkommen.
+- **Stream-Planer**: Übersicht über kommende Streams und Events.
+- **Stream-Archiv**: Zugriff auf vergangene Streams.
+- **Community-Foren**: Diskutiere mit anderen Fans.
+- **Custom Content**: Mitglieder können eigene Inhalte hinzufügen.
 
 ## Installation
-
-Um das Projekt lokal auf deinem Rechner zu installieren, folge diesen Schritten:
+Um die Website lokal auf deinem Rechner zum Laufen zu bringen, folge diesen Schritten:
 
 1. **Repository klonen**:
-    ```bash
-    git clone https://github.com/DeinBenutzername/Community-Website.git
+    ```sh
+    git clone https://github.com/DerRabbin/community-website.git
     ```
-2. **Zum Projektverzeichnis wechseln**:
-    ```bash
-    cd Community-Website
+2. **In das Projektverzeichnis wechseln**:
+    ```sh
+    cd community-website
     ```
 3. **Abhängigkeiten installieren**:
-    ```bash
+    ```sh
     npm install
     ```
-4. **Projekt starten**:
-    ```bash
+4. **Entwicklungsserver starten**:
+    ```sh
     npm start
     ```
+5. **Website im Browser öffnen**:
+    Die Website ist nun unter `http://localhost:3000` erreichbar.
 
 ## Beitragen
+Wir freuen uns über jeden Beitrag! Hier ist, wie du loslegen kannst:
 
-Wir freuen uns über Beiträge jeder Art! Hier sind die Schritte, um beizutragen:
-
-1. **Fork das Repository**:
-    Klicke auf die Schaltfläche "Fork" oben rechts auf der Repository-Seite, um eine Kopie des Repositories in deinem GitHub-Konto zu erstellen.
-
-2. **Klonen Sie Ihr geforktes Repository**:
-    ```bash
-    git clone https://github.com/DeinBenutzername/Community-Website.git
+1. **Fork das Repository**: Klicke auf "Fork" oben rechts auf der GitHub-Seite des Projekts.
+2. **Erstelle einen Branch**: 
+    ```sh
+    git checkout -b mein-neuer-feature
     ```
-
-3. **Erstellen Sie einen neuen Branch**:
-    ```bash
-    git checkout -b feature/DeinFeatureName
+3. **Nimm deine Änderungen vor**: Implementiere deine Änderungen und stelle sicher, dass alles wie gewünscht funktioniert.
+4. **Commit deine Änderungen**:
+    ```sh
+    git commit -m "Beschreibung der Änderung"
     ```
-
-4. **Änderungen vornehmen und committen**:
-    ```bash
-    git add .
-    git commit -m "Beschreibung deiner Änderungen"
+5. **Push auf dein Fork**:
+    ```sh
+    git push origin mein-neuer-feature
     ```
+6. **Erstelle einen Pull Request**: Gehe auf die GitHub-Seite deines Forks und erstelle einen neuen Pull Request.
 
-5. **Pushen Sie Ihre Änderungen zu GitHub**:
-    ```bash
-    git push origin feature/DeinFeatureName
-    ```
+### Gute Pull Requests
+- Stelle sicher, dass dein Code gut dokumentiert ist.
+- Achte auf saubere Commit-Historie.
+- Beschreibe deine Änderungen ausführlich im Pull Request.
 
-6. **Erstellen Sie einen Pull Request**:
-    Gehe zu deinem geforkten Repository auf GitHub und klicke auf die Schaltfläche "New Pull Request". Beschreibe deine Änderungen und erstelle den Pull Request.
+## Code of Conduct
+Unser Ziel ist es, eine freundliche und einladende Community zu schaffen. Bitte lies dir unseren [Code of Conduct](CODE_OF_CONDUCT.md) durch, bevor du Beiträge leistest.
 
 ## Lizenz
-
-Dieses Projekt steht unter der [MIT Lizenz](LICENSE).
+Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen findest du in der [LICENSE](LICENSE) Datei.
 
 ---
 
-Vielen Dank, dass du zur Community-Website beiträgst! Gemeinsam können wir etwas Großartiges schaffen.
+Vielen Dank, dass du Teil unserer Community bist und zu diesem Projekt beiträgst!
+
